@@ -5,4 +5,4 @@ As pastas presentes no repositó são os projetos diferentes de arduino instruid
 
 O objetivo do repositório é armazenar os projetos de arduino e fecilitar acesso.
 
-Os auores são Ariel Navarro da Silva, Gabriel Souza de Barros, Natália Machado Moura e Pietra Marina Ramalho Chagas.
+Os auores são Ariel Navarro da Silva, Gabriel Souza de Barros, Lucas Moitinho Moraes, Natália Machado Moura e Pietra Marina Ramalho Chagas.
