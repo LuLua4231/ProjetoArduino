@@ -4,8 +4,8 @@ Esse projeto liga um led por tres segudos e depois o apaga acendendo o próximo 
 
 Código:
 
-	// C++ code
-//
+// C++ code
+
 void setup()
 {
   pinMode(3, OUTPUT);
